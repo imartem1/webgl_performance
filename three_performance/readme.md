@@ -1,4 +1,4 @@
-# Three.js Journey
+# three_performance
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
